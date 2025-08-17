@@ -1,0 +1,3 @@
+C:/Users/Chinmay/CLionProjects/RubicsCubeSover/cmake-build-debug/CMakeFiles/RubicsCubeSover.dir
+C:/Users/Chinmay/CLionProjects/RubicsCubeSover/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chinmay/CLionProjects/RubicsCubeSover/cmake-build-debug/CMakeFiles/rebuild_cache.dir
